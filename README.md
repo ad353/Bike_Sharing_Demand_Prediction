@@ -1,10 +1,10 @@
 # Bike_Sharing_Demand_Prediction
 
-# Problem Statement
+## Problem Statement
 
 In numerous urban areas, rental bikes have been introduced to improve the convenience of mobility. Ensuring the timely availability and accessibility of these rental bikes to the public is of paramount importance, as it reduces waiting times. Consequently, ensuring a consistent and adequate supply of rental bikes to the city emerges as a significant challenge. The critical aspect involves forecasting the hourly demand for bike counts to maintain a stable supply of rental bikes.
 
-# Attribute Information
+## Attribute Information
 
 - Date - Date
 - Rented Bike Count - Count of bikes rented at each hour
@@ -21,7 +21,7 @@ In numerous urban areas, rental bikes have been introduced to improve the conven
 - Holiday - Whether a holiday or not
 - Functioning Day - Whether a functioning day or not
 
-# Key Features 
+## Key Features 
 
 - Exploratory Data Analysis (EDA): Conducted comprehensive analysis of the dataset, exploring its structure, data types, and statistical summaries. Identified key features and patterns that impact bike demand, such as time, temperature, and weather conditions.
 
@@ -33,7 +33,7 @@ In numerous urban areas, rental bikes have been introduced to improve the conven
 
 - Performance Metrics: Evaluated the models using industry-standard metrics such as R-squared, adjusted R-squared, and mean squared error (MSE). Selected the final model based on its performance and ability to make accurate predictions.
 
-# Algorithms Used
+## Algorithms Used
 
 - Linear Regression
 - Ridge Regression
@@ -43,7 +43,7 @@ In numerous urban areas, rental bikes have been introduced to improve the conven
 - Gradient Boosting Regression
 
 
-# Conclusion
+## Conclusion
 
 - The demand for bikes is higher in the summer season and lower in the winter season.
 - There is high demand on working days compared to non-working days.
